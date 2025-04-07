@@ -10,7 +10,7 @@ import cv2
 import os
 import csv
 
-SERVER_IP = "0.0.0.0"  # Replace with actual server IP
+SERVER_IP = "206.87.234.104"  # Replace with actual server IP
 PORT = 4999           # Replace with actual server port
 RETRY_DELAY = 5       # Seconds to wait before reconnection
 

@@ -7,9 +7,9 @@ import time
 import csv
 import threading
 
-HOST = "0.0.0.0"
+HOST = "206.87.234.104"
 PORT = 4999
-LOG_FILE = "../data/synchronized_data.csv"
+LOG_FILE = "synchronized_data.csv"
 CYCLE_INTERVAL = 0.1  # Delay between cycles (adjust as needed)
 BUFFER_SIZE = 4096
 
